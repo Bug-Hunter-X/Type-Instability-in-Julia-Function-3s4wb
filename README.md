@@ -1,0 +1,2 @@
+# Julia Type Instability Bug
+This repository demonstrates a common type instability issue in Julia. The `myfunction` function works correctly for integer inputs but can exhibit performance problems or unexpected outputs with floating-point numbers. The solution showcases how to improve type stability to mitigate these issues.
